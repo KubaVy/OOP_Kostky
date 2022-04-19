@@ -34,5 +34,12 @@ namespace OOP_Kostky
         {
             InitializeComponent();
         }
+
+        
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

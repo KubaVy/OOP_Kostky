@@ -99,6 +99,15 @@
                FontSize="40"
                HorizontalContentAlignment="Center"
                VerticalContentAlignment="Center"/>
+        <Button Content="hod" 
+                Grid.ColumnSpan="3" 
+                Grid.Row="7"
+                FontSize="20" 
+                Grid.Column="5"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch"
+                Click="Button_Click_1"/>
+
 
 
     </Grid>
